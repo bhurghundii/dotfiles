@@ -74,6 +74,7 @@ plugins=(
   git
   zsh-autosuggestions
   zsh-syntax-highlighting
+  auto-fortune-cowsay
 )
 
 source $ZSH/oh-my-zsh.sh
